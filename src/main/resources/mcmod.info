@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "emcredits",
+  "name": "EM Credits",
+  "description": "Electro-magnetic credits.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["Crindigo"],
+  "credits": "CleanroomMC for mod template",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
